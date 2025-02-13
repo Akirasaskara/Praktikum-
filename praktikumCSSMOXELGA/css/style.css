@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+div.box {
+  display: inline-block;
+  width: 250px !important;
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+div.box img {
+  width: 100%;
+  padding: 0px 15px 0px 0px;
+  height: 300px;
+}
+div.box:hover {
+  border: 3px solid blue;
+}
+div.box div.deskripsi {
+  padding: 15px;
+  text-align: center;
+}
